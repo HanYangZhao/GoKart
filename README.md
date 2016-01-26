@@ -4,4 +4,4 @@
 
 Modeled using SolidWorks
 
-![alt-text](https://github.com/HanYangZhao/GoKart/blob/master/CAD/Untitled-1.jpg)
+![alt-text](https://github.com/HanYangZhao/GoKart/blob/master/photos/Untitled-1.jpg)
